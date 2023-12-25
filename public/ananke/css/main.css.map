@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/mini-asus/Desktop/github/web/quickstart",
+	"sourceRoot": "/home/mini-asus/Desktop/github/webos/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
