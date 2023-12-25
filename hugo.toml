@@ -1,0 +1,5 @@
+baseURL = 'https://nigelcaspa.github.io/web'
+languageCode = 'en-us'
+title = 'Nigel Caspa'
+theme = 'ananke'
+

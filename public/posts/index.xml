@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nigel Caspa</title>
+    <link>https://nigelcaspa.github.io/web/posts/</link>
+    <description>Recent content in Posts on Nigel Caspa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Dec 2023 22:08:00 -0400</lastBuildDate>
+    <atom:link href="https://nigelcaspa.github.io/web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://nigelcaspa.github.io/web/posts/my-first-post/</link>
+      <pubDate>Sun, 24 Dec 2023 22:08:00 -0400</pubDate>
+      <guid>https://nigelcaspa.github.io/web/posts/my-first-post/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar purus id iaculis lacinia. Proin convallis aliquet lacus, sed mollis ante maximus eu. Morbi sagittis est id mollis tristique. Praesent at convallis libero, vitae egestas elit. Donec eget accumsan enim, eget finibus augue. Integer nec leo feugiat, iaculis velit cursus, condimentum lorem. Nam ac massa varius, lobortis mauris tempus, lacinia eros.&#xA;Mauris in est vitae ex molestie venenatis. Vivamus lacus eros, efficitur et dui nec, ullamcorper lobortis nunc.</description>
+    </item>
+  </channel>
+</rss>
