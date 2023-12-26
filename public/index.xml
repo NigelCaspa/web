@@ -6,22 +6,8 @@
     <description>Recent content on Nigel Caspa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Dec 2023 20:22:13 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 23:02:08 -0400</lastBuildDate>
     <atom:link href="https://nigelcaspa.github.io/web/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Fourth Post</title>
-      <link>https://nigelcaspa.github.io/web/post/my-fourth-post/</link>
-      <pubDate>Mon, 25 Dec 2023 20:22:13 -0400</pubDate>
-      <guid>https://nigelcaspa.github.io/web/post/my-fourth-post/</guid>
-      <description>Esta es una línea de prueba</description>
-    </item>
-    <item>
-      <title>My third Post</title>
-      <link>https://nigelcaspa.github.io/web/post/my-first-post/</link>
-      <pubDate>Mon, 25 Dec 2023 20:14:28 -0400</pubDate>
-      <guid>https://nigelcaspa.github.io/web/post/my-first-post/</guid>
-      <description>Introduction This is a line of text in cursive and blacks.</description>
-    </item>
     <item>
       <title>My Second Post</title>
       <link>https://nigelcaspa.github.io/web/posts/my-second-post/</link>
